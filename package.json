@@ -1,6 +1,6 @@
 {
-  "name": "json-server",
-  "version": "0.17.0",
+  "name": "json-server-fork",
+  "version": "0.1.0",
   "description": "Get a full fake REST API with zero coding in less than 30 seconds",
   "main": "./lib/server/index.js",
   "bin": "./lib/cli/bin.js",
@@ -69,7 +69,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/typicode/json-server.git"
+    "url": "git://github.com/petrkrejcik/json-server.git"
   },
   "keywords": [
     "JSON",
@@ -90,7 +90,7 @@
   "author": "Typicode <typicode@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/typicode/json-server/issues"
+    "url": "https://github.com/typicode /json-server/issues"
   },
   "homepage": "https://github.com/typicode/json-server",
   "engines": {
